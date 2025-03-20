@@ -24,6 +24,7 @@ fi
 
 echo ""
 echo "Using pyspelling on configuration outlined in >$SPELLCHECK_CONFIG_FILE<"
+echo "\tUsing local travisgilbert-dell copy"
 
 SINGLE="'"
 DOUBLE='"'
